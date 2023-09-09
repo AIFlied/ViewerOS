@@ -1,2 +1,2 @@
 # ViewerOS
-Creating my first OS file.
+Creating OS file.
